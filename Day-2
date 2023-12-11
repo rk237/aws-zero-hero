@@ -1,0 +1,1 @@
+Deploy a sample web application on an EC2 instance in your AWS account and create an AWS WAF web ACL to define rules for blocking malicious requests. Generate test requests to the web application, including requests that match the defined WAF rules
